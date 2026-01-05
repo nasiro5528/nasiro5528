@@ -43,9 +43,7 @@ I am continually expanding my expertise in areas that inspire me, including:
 Here are a few impactful projects that demonstrate my skills and creativity:
 
 - [**Employee Task Management System**](https://github.com/nasiro5528/employee-task-management-system): A cutting-edge application designed to streamline task management and enhance team collaboration.
-- [](https://github.com/nasir5528/project2): An innovative solution that automates the management of resident records, utilizing technologies such as Python and Flask for the backend, and React for the frontend.
-
-- resident recording system(https://github.com/nasir5528/project3): A comprehensive Resident Record System that showcases my proficiency in database management and web development, built with technologies including MySQL and php.
+  [**resident recording system**](https://github.com/nasir5528/resident recording system): A comprehensive Resident Record System that showcases my proficiency in database management and web development, built with technologies including MySQL and php.
 
 ## 📝 Featured Blog Posts
 
