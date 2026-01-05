@@ -34,11 +34,8 @@ I possess hands-on experience in a variety of technologies, including:
 ## 🌱 Currently Learning
 
 I am continually expanding my expertise in areas that inspire me, including:
-
 - **Machine Learning**: Exploring algorithms and predictive analytics.
-- **GraphQL**: Mastering the intricacies of flexible API designs.
 - **Advanced UI/UX Design**: Diving deeper into user-centered design methodologies.
-- **Cloud Computing**: Gaining proficiency in AWS and GCP for efficient resource management.
 - **Data Visualization**: Enhancing abilities in data storytelling through visualization tools like Power BI.
 
 ## 🚀 Notable Projects
@@ -46,14 +43,14 @@ I am continually expanding my expertise in areas that inspire me, including:
 Here are a few impactful projects that demonstrate my skills and creativity:
 
 - [**Employee Task Management System**](https://github.com/nasiro5528/employee-task-management-system): A cutting-edge application designed to streamline task management and enhance team collaboration.
-- [**Project 2**](https://github.com/nasir5528/project2): An innovative solution that automates [insert brief description of functionality and technologies].
-- [**Project 3**](https://github.com/nasiro5528/project3): A [description of the project], showcasing my proficiency in [technologies used].
+- [](https://github.com/nasir5528/project2): An innovative solution that automates the management of resident records, utilizing technologies such as Python and Flask for the backend, and React for the frontend.
+
+- resident recording system(https://github.com/nasir5528/project3): A comprehensive Resident Record System that showcases my proficiency in database management and web development, built with technologies including MySQL and php.
 
 ## 📝 Featured Blog Posts
 
 As a contributor to various tech blogs, I enjoy sharing knowledge and insights. Check out my featured articles:
 
-- [**Understanding Machine Learning Basics**](http://yourblog.com/post1): An exploration of key concepts and their applications in real-world scenarios.
 - [**Mastering UI/UX Design**](http://yourblog.com/post2): Essential strategies for creating user-friendly interfaces that captivate users.
 - [**Getting Started with Cisco Networking**](http://yourblog.com/post3): A comprehensive guide to foundational networking skills and best practices.
 
