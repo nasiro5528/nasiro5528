@@ -3,12 +3,9 @@
 
 # About Me.. 
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)**
-![](https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
 👋 Hello! I'm **Nasir Mohammed**, a passionate developer and technology enthusiast dedicated to crafting innovative solutions that drive success. With a diverse skill set spanning software development, networking, and UI/UX design, I blend technology with creativity to deliver exceptional results
 ## 🔧 Technologies & Tools
 ![## 🔧 Technologies & Tools](https://img.shields.io/badge/My%20Tech%20Stack-green.svg)
-I possess hands-on experience in a variety of technologies, including:
-
 - **Programming Languages**: 
   - JavaScript
   - Python
