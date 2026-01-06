@@ -1,4 +1,7 @@
-# About Me
+# About Me.. 
+image:: https://img.shields.io/badge/:badgeContent
+   :alt: Static Badge
+
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)**
 👋 Hello! I'm **Nasir Mohammed**, a passionate developer and technology enthusiast dedicated to crafting innovative solutions that drive success. With a diverse skill set spanning software development, networking, and UI/UX design, I blend technology with creativity to deliver exceptional results
 
