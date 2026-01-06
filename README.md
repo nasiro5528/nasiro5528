@@ -7,31 +7,28 @@
 ## 🔧 Technologies & Tools
 ![## 🔧 Technologies & Tools](https://img.shields.io/badge/My%20Tech%20Stack-green.svg)
 - **Programming Languages**:
--  - https://img.shields.io/badge/logo-javascript-blue?logo=javascript
- - https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5
-  - JavaScript
-  - Python
-  - TypeScript
-  - C++
-  - C#
-  - R
-  - HTML & CSS
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp)
+![R](https://img.shields.io/badge/R-black?style=flat-square&logo=r)
+![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
 
-- **Frameworks & Tools**:
-  - React
-  - Next.js
-  - Node.js
-  - Git
-  - Docker
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
 
-- **Networking**:
-  - Cisco Networking fundamentals and configuration
-  - Cloud networking principles (AWS, GCP)
+![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=googlecloud)
 
-- **Design**:
-  - UI/UX Design principles and tools
-  - Video Editing software (Adobe Premiere, Final Cut Pro)
-  - Data Visualization tools (Power BI)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-black?style=flat-square&logo=adobe)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-black?style=flat-square&logo=adobe)
+![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat-square&logo=microsoftpowerbi)
 
 ## 🌱 Currently Learning
 
