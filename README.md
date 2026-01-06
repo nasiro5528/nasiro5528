@@ -6,7 +6,9 @@
 👋 Hello! I'm **Nasir Mohammed**, a passionate developer and technology enthusiast dedicated to crafting innovative solutions that drive success. With a diverse skill set spanning software development, networking, and UI/UX design, I blend technology with creativity to deliver exceptional results
 ## 🔧 Technologies & Tools
 ![## 🔧 Technologies & Tools](https://img.shields.io/badge/My%20Tech%20Stack-green.svg)
-- **Programming Languages**: 
+- **Programming Languages**:
+-  - https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+ - https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5
   - JavaScript
   - Python
   - TypeScript
