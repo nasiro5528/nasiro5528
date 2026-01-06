@@ -6,7 +6,7 @@
 👋 Hello! I'm **Nasir Mohammed**, a passionate developer and technology enthusiast dedicated to crafting innovative solutions that drive success. With a diverse skill set spanning software development, networking, and UI/UX design, I blend technology with creativity to deliver exceptional results
 ## 🔧 Technologies & Tools
 ![## 🔧 Technologies & Tools](https://img.shields.io/badge/My%20Tech%20Stack-green.svg)
-- **Programming Languages**:#
+- **Programming Languages**:
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
@@ -15,17 +15,17 @@
 ![R](https://img.shields.io/badge/R-black?style=flat-square&logo=r)
 ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
-- **Frameworks**:#
+- **Frameworks**:
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-- **Networking:**:#
+- **Networking:**:
 ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
 ![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=googlecloud)
-- **Design:**:#
+- **Design:**:
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-black?style=flat-square&logo=adobe)
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-black?style=flat-square&logo=adobe)
 ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat-square&logo=microsoftpowerbi)
