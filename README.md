@@ -62,7 +62,7 @@ Beyond coding, I have a deep passion for:
 
 I believe in the power of collaboration and would love to connect with fellow professionals. Feel free to reach out:
 
-- **Email**: [warenasir749@gmail.com](mailto:warenasir749@gmail.com)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)
+[[Email](https://img.shields.io/badge/Email-warenasir749@gmail.com-blue?style=for-the-badge)](mailto:warenasir749@gmail.com)
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge)](https://linkedin.com/in/yourprofile)
 
 Thank you for visiting my profile! I look forward to engaging with you and exploring opportunities for collaboration and knowledge sharing.
